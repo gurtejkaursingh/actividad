@@ -17,6 +17,8 @@ public class actividadRafa {
     public static void main(String[] args) {
         
         System.out.println("Hola Rafa");
+        System.out.println("Hola");
+        
     }
     
 }
